@@ -1,3 +1,5 @@
+> 📦 **Release 下载提示**：请前往对应的 GitLab 仓库查看或下载 Release（GitHub 端暂不重复上传）👉 [https://gitlab.com/xusu616/ESP32-fakemutiple-wifi/-/releases](https://gitlab.com/xusu616/ESP32-fakemutiple-wifi/-/releases) （[GitLab 仓库主页](https://gitlab.com/xusu616/ESP32-fakemutiple-wifi)）
+
 # Mutiple-wifi
 
 ESP32-S3 + PlatformIO + Arduino。目前 `src/main.cpp` 还是 PlatformIO 的空模板，功能待写。
